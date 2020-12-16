@@ -1,0 +1,148 @@
+.page-login {
+  min-height: 100%;
+}
+.page-login .main {
+  width: 100%;
+  min-height: 100%;
+}
+.page-login .main .main-content {
+  height: 100%;
+}
+.page-login .main .main-content .content {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.page-login .main .main-content .content .login-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  background-color: #FFFFFF;
+  border-radius: 20rpx;
+  width: 94%;
+  margin-top: 50rpx;
+  padding: 40rpx;
+}
+.page-login .main .main-content .content .login-content .login-icon image {
+  width: 226rpx;
+  height: 407rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.page-login .main .main-content .content .login-content .login-password {
+  margin-top: 30rpx;
+  background-color: #f7f7f7;
+  padding: 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 86%;
+  height: 80rpx;
+  border-radius: 15rpx;
+  z-index: 9999;
+}
+.page-login .main .main-content .content .login-content .login-password input {
+  padding-left: 20rpx;
+}
+.page-login .main .main-content .content .login-content .login-password .password image {
+  width: 32rpx;
+  height: 32rpx;
+}
+.page-login .main .main-content .content .login-content .login-password .password-eye-open {
+  margin-left: auto;
+}
+.page-login .main .main-content .content .login-content .login-password .password-eye-open image {
+  width: 47rpx;
+  height: 32rpx;
+}
+.page-login .main .main-content .content .login-content .login-password .password-eye-close {
+  margin-left: auto;
+}
+.page-login .main .main-content .content .login-content .login-password .password-eye-close image {
+  width: 60rpx;
+  height: 32rpx;
+}
+.page-login .main .main-content .content .login-content .login-user {
+  margin-top: -45rpx;
+  padding: 15rpx;
+  background-color: #f7f7f7;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 86%;
+  height: 80rpx;
+  border-radius: 15rpx;
+  z-index: 9999;
+}
+.page-login .main .main-content .content .login-content .login-user input {
+  padding-left: 20rpx;
+}
+.page-login .main .main-content .content .login-content .login-user .username image {
+  width: 32rpx;
+  height: 32rpx;
+}
+.page-login .main .main-content .content .login-content .login-opt {
+  width: 80%;
+  margin-top: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.page-login .main .main-content .content .login-content .login-opt .passForget {
+  color: #cccccc;
+  font-size: 26rpx;
+}
+.page-login .main .main-content .content .login-content .login-submit {
+  margin-top: 40rpx;
+  width: 86%;
+  background: #FFC800;
+  color: #FFFFFF;
+  font-size: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  height: 80rpx;
+  border-radius: 15rpx;
+}
+

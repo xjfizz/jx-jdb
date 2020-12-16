@@ -1,0 +1,289 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "抢单大厅"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/publish/publish",
+			"style": {
+				"navigationBarTitleText": "下单"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登陆"
+			}
+		},
+		{
+			"path": "pages/login/login_app",
+			"style": {
+				"navigationBarTitleText": "登陆",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/login_app2",
+			"style": {
+				"navigationBarTitleText": "登陆"
+				
+			}
+		},
+		{
+			"path": "pages/login/login_no",
+			"style": {
+				"navigationBarTitleText": "未登录"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/login/registerTest",
+			"style": {
+				"navigationBarTitleText": "注册测试"
+			}
+		},
+		{
+			"path": "pages/my/userUpdate",
+			"style": {
+				"navigationBarTitleText": "更新资料"
+			}
+		},
+		{
+			"path": "pages/my/userEdit",
+			"style": {
+				"navigationBarTitleText": "我的资料",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/my/userDetail",
+			"style": {
+				"navigationBarTitleText": "我的资料",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "地址管理"
+			}
+		},
+		{
+			"path": "pages/publish/publish-edit",
+			"style": {
+				"navigationBarTitleText": "订单修改"
+			}
+		},
+		{
+			"path": "pages/money/money",
+			"style": {
+				"navigationBarTitleText": "我的钱包"
+				// "enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/bank-add",
+			"style": {
+				"navigationBarTitleText": "添加银行卡",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/identifyConfirm",
+			"style": {
+				"navigationBarTitleText": "身份验证",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/bank-edit",
+			"style": {
+				"navigationBarTitleText": "更换银行卡",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/password-set",
+			"style": {
+				"navigationBarTitleText": "设置密码",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/password-set-edit",
+			"style": {
+				"navigationBarTitleText": "设置密码",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/password-set-second",
+			"style": {
+				"navigationBarTitleText": "再次设置密码",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/password-set-second-edit",
+			"style": {
+				"navigationBarTitleText": "再次设置密码",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/paymentAgreement",
+			"style": {
+				"navigationBarTitleText": "巨象支付协议",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/bank-change",
+			"style": {
+				"navigationBarTitleText": "更换银行卡",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/rcharge-list-detail",
+			"style": {
+				"navigationBarTitleText": "余额明细"
+			}
+		},
+		{
+			"path": "pages/money/rcharge",
+			"style": {
+				"navigationBarTitleText": "提现",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/rcharge-success",
+			"style": {
+				"navigationBarTitleText": "充值"
+			}
+		},
+		{
+			"path": "pages/order/orderPay",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		},
+		{
+			"path": "pages/order/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/pay-success",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		},
+		{
+			"path": "pages/address/addressAdd",
+			"style": {
+				"navigationBarTitleText": "新增地址"
+			}
+		},
+		{
+			"path": "pages/invoices/invoices",
+			"style": {
+				"navigationBarTitleText": "发票管理"
+			}
+		},
+		{
+			"path": "pages/invoices/invoicesEdit",
+			"style": {
+				"navigationBarTitleText": "更改发票"
+			}
+		},
+		{
+			"path": "pages/money/withdrawal-success",
+			"style": {
+				"navigationBarTitleText": "提现"
+			}
+		},
+		{
+			"path": "pages/order/orderGDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/index/indexDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/order/rob-success",
+			"style": {
+				"navigationBarTitleText": "抢单成功"
+			}
+		}
+	],
+
+	"tabBar": {
+		"backgroundColor": "#ffffff",
+		"color": "#333333",
+		"selectedColor": "#333333",
+		"borderStyle":"white",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "抢单",
+				"iconPath": "static/img/menu/rob-order-no.png",
+				"selectedIconPath": "static/img/menu/rob-order-selected.png"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/img/menu/order-no.png",
+				"selectedIconPath": "static/img/menu/order-selected.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/img/menu/my-no.png",
+				"selectedIconPath": "static/img/menu/my-selected.png"
+			}
+		]
+	},
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "接单宝",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#FFFFFF",
+		"enablePullDownRefresh": true
+	},
+
+	"permission": {
+		"scope.userLocation": {
+			"desc": "你的位置信息将用于首页展示城市" // 高速公路行驶持续后台定位
+		}
+	}
+}

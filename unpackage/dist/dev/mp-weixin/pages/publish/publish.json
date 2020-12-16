@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "下单",
+  "usingComponents": {
+    "uni-calendar": "/components/uni-calendar/uni-calendar"
+  }
+}

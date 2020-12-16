@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "登陆",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar": "/components/navigation-bar/navigation-bar"
+  }
+}
